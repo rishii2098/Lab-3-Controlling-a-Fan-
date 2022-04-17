@@ -10,3 +10,6 @@ Bhargavi Upperla – Tasked with constructing the LCD/RTC portion of the design.
 Created code to display RTC Data.
 Rishab Vyas – Tasked with constructing the motor control portion of the design. Created code to control motor rotation direction and motor speed.
 Jairus Morrow – Tasked with constructing the IR Receiver portion of the design. Created code to interpret IR Remote commands to control motor.
+
+
+Youtube link: https://www.youtube.com/watch?v=YQAM2MjlL4s
